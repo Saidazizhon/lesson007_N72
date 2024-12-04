@@ -1,0 +1,5 @@
+.navbar__link.active{
+    color: blue;
+    text-decoration: underline;
+    transform-origin: center;
+}
